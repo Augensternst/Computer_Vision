@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CV_2252709_\u6768\u70DC\u8D6B_Assignment1\\problem6\\problem6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF667C01-7271-4C25-97DB-736F6FBD0FAC}|problem6\\problem6.vcxproj|D:\\CV_2252709_\u6768\u70DC\u8D6B_Assignment1\\problem6\\problem6\\problem6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AF667C01-7271-4C25-97DB-736F6FBD0FAC}|problem6\\problem6.vcxproj|solutionrelative:problem6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\CV_2252709_\u6768\u70DC\u8D6B_Assignment1\\problem6\\problem6\\problem6\\main.cpp",
+              "RelativeDocumentMoniker": "problem6\\main.cpp",
+              "ToolTip": "D:\\CV_2252709_\u6768\u70DC\u8D6B_Assignment1\\problem6\\problem6\\problem6\\main.cpp",
+              "RelativeToolTip": "problem6\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-26T11:43:39.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
